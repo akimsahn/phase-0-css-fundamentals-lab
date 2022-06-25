@@ -1,5 +1,22 @@
-body {
-  width: 100%;
+/*body {
+  width: 900px;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  text-align: center;
+}*/
+header,
+#featured-property {
+  margin: auto;
+  text-align: center;
+}
+
+nav a {
+  padding: 10px;
+  background-color: aliceblue;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: auto;
+  text-align: center;
 }
